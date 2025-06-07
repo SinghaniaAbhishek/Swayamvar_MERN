@@ -5,7 +5,7 @@ import { MdKeyboardArrowDown } from "react-icons/md";
 const Hero = () => {
   return (
     <>
-        <section className='min-h-[60vh] bg-center bg-[url(https://image.wedmegood.com/resized/1900X/uploads/city_bg_image/1/delhi_bg.jpeg)] 
+        <section className='min-h-[60vh] bg-center bg-no-repeat bg-cover bg-[url(/images/main9.jpg)] 
         flex flex-col items-center justify-center relative'>
             <div className="absolute inset-0 bg-gradient-to-b from-amber-900/30 to-amber-800/50">
             </div>
